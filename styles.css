@@ -892,6 +892,14 @@ table td.description-field .help {
 
 /* Шрифты */
 @font-face {
+  font-family: "Material Symbols Rounded";
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: block;
+  src: url("../fonts/material-symbols-rounded.woff2") format("woff2");
+}
+
+@font-face {
   font-family: "Jost";
   src: url("/fonts/Jost-Black.ttf");
   font-weight: 700;
